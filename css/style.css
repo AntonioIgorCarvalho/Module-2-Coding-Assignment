@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+.main__title {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.container__div {
+  position: relative;
+  border: 2px solid black;
+  box-sizing: border-box;
+  width: 30%;
+  margin-top: 3rem;
+  margin-left: 2.5%;
+  float: left;
+  background-color: gray;
+}
+
+.container--div {
+  float: right;
+
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  width: 12rem;
+  height: 3rem;
+  text-align: center;
+}
+
+.container__title {
+  text-align: center;
+  line-height: 0.5rem;
+}
+
+.container__text {
+  float: left;
+  margin: 1rem;
+}
+
+.chicken {
+  background-color: pink;
+}
+
+.beef {
+  background-color: red;
+  color: white;
+}
+
+.sushi {
+  background-color: yellow;
+}
