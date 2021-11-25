@@ -9,7 +9,7 @@ body {
 
 .container__div {
   position: relative;
-  border: 2px solid black;
+  border: 1px solid black;
   box-sizing: border-box;
   margin-top: 3rem;
   float: left;
@@ -20,8 +20,8 @@ body {
 .container--div {
   float: right;
 
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
   width: 12rem;
   height: 3rem;
   text-align: center;
